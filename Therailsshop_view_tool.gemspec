@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Variuos view specific methods that I use.}
   spec.description   = %q{Provides generated HTML data.}
-  spec.homepage      = "www.therailsshop.club."
+  spec.homepage      = "http://www.therailsshop.club."
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|

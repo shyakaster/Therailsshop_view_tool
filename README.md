@@ -1,6 +1,6 @@
 # TherailsshopViewTool
 
-> Variuos view specific methods that I use
+> This is my first ever gem and it displays the copyright details on the bottom of the page
 
 ## Installation
 

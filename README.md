@@ -1,6 +1,6 @@
 # TherailsshopViewTool
 
-> This is my first ever gem and it displays the copyright details on the bottom of the page
+> This is my first ever gem and it displays the copyright details
 
 ## Installation
 

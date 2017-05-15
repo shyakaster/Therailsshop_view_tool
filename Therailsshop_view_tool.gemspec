@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["alex shyaka"]
   spec.email         = ["shyakaster@gmail.com"]
 
-  spec.summary       = %q{TODO: Variuos view specific methods that I use.}
-  spec.description   = %q{TODO: Provides generated HTML data.}
-  spec.homepage      = "TODO: www.therailsshop.club."
+  spec.summary       = %q{Variuos view specific methods that I use.}
+  spec.description   = %q{Provides generated HTML data.}
+  spec.homepage      = "www.therailsshop.club."
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
